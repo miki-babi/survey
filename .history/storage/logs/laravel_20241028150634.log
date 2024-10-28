@@ -1,0 +1,16 @@
+[2024-10-28 12:06:11] local.ERROR: Trait "App\Models\HasFactory" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"App\\Models\\HasFactory\" not found at C:\\xampp\\htdocs\\nnn\\new\\app\\Models\\Question.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-28 12:06:21] local.ERROR: Trait "App\Models\HasFactory" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"App\\Models\\HasFactory\" not found at C:\\xampp\\htdocs\\nnn\\new\\app\\Models\\Question.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-28 12:06:29] local.ERROR: Trait "App\Models\HasFactory" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"App\\Models\\HasFactory\" not found at C:\\xampp\\htdocs\\nnn\\new\\app\\Models\\Choice.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-28 12:06:35] local.ERROR: Trait "App\Models\HasFactory" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"App\\Models\\HasFactory\" not found at C:\\xampp\\htdocs\\nnn\\new\\app\\Models\\Choice.php:7)
+[stacktrace]
+#0 {main}
+"} 
